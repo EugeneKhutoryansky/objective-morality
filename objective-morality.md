@@ -4,7 +4,7 @@
 
 **Author:** Eugene Khutoryansky  
 **Original URL:** https://veg1.org  
-**Original publication:** Originally published across multiple pages on the author’s website (veg1.org).  
+**Original publication:** First published online in 1997; later hosted across multiple pages on the author’s website (veg1.org).  
 **Mirror:** This file mirrors the original essay for accessibility and long-term preservation.
 
 ---
