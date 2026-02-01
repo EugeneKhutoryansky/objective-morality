@@ -3136,7 +3136,7 @@ is not what should be coming to mind.
 
 People routinely spend money on items such as expensive cars
 and jewelry, when this money can instead be given to
-organizations such as [UNICEF (United Nations Children's Fund)](http://www.unicef.org/).
+organizations such as UNICEF (United Nations Children's Fund).
 Instead of criticizing money spent on animals, we should try to
 remember our concern for global human poverty when deciding if to
 purchase a new TV or go on an expensive vacation.
@@ -3329,27 +3329,6 @@ simply because they are believed to be different from us.
 
 ---
 
-<a id="about_me"></a>
-
-## Contact and related links
-
-**Original URL:** https://veg1.org/about_me.html
-
-If you would like to send comments or questions, my email
-address is
-
-[Eugene381@comcast.net](mailto:Eugene381@comcast.net)
-
-I always appreciate receiving feedback.
-
-  
-
----
-
-
-
----
-
 <a id="family_history"></a>
 
 ## What was your family history during the Holocaust?
@@ -3395,5 +3374,25 @@ The people who choose to do the right thing today are only risking ridicule from
 
 
 ---
+
+<a id="about_me"></a>
+
+## Contact and related links
+
+**Original URL:** https://veg1.org/about_me.html
+
+If you would like to send comments or questions, my email
+address is
+
+[Eugene381@comcast.net](mailto:Eugene381@comcast.net)
+
+I always appreciate receiving feedback.
+
+  
+
+---
+
+
+
 
   
