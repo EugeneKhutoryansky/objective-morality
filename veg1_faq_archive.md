@@ -2234,7 +2234,7 @@ rival African tribes routinely conquered and enslaved one
 another.
 
 Also, it should be mentioned that the way in which humans
-currently behave towards animals is actually [far worse](vegan.html) than the way in which animals
+currently behave towards animals is actually far worse than the way in which animals
 behave towards each other.
 
 
@@ -2597,14 +2597,7 @@ In any case, no animal wants to go to the slaughterhouse.
 
 Follow up question:
 
-[What if humans treat and slaughter the animals humanely?](humane_slaughter.html)
-
-[Back to the title
-page](Animal_Rights.html)
-
-[Back to the list of
-the most commonly asked questions](Questions.html)
-
+- [What if humans treat and slaughter the animals humanely?](#humane_slaughter)
 
 ---
 
@@ -2705,14 +2698,7 @@ Fish feel pain and suffering just as all other animals do, and just as we humans
 
 Follow up question:
 
-[Why is it wrong to eat dairy and eggs?](Eggs_and_Dairy.html)
-
-[Back to the title
-page](Animal_Rights.html)
-
-[Back to the list of
-the most commonly asked questions](Questions.html)
-
+- [Why is it wrong to eat dairy and eggs?](#Eggs_and_Dairy)
 
 ---
 
@@ -2736,13 +2722,7 @@ Egg laying hens are by far the worst treated of all farm animals, far more so th
 
 Follow up question:
 
-[Why don't you focus on passing laws requiring better treatment for farm animals?](change_the_law.html)
-
-[Back to the title
-page](Animal_Rights.html)
-
-[Back to the list of
-the most commonly asked questions](Questions.html)
+- [Why don't you focus on passing laws requiring better treatment for farm animals?](#change_the_law)
 
 
 ---
@@ -2933,7 +2913,7 @@ invented.
 **Don't the majority of people think there is
 nothing morally wrong with eating meat?**
 
-This is correct. However, as discussed in the [title page](Animal_Rights.html),
+This is correct. However, as discussed in the title page,
 truth is not democratic.  The Earth does not become flat
 just because the majority of the population thinks that it
 is.
@@ -3025,7 +3005,7 @@ world history.
 **Haven't humans eaten meat ever since they walked
 the Earth?**
 
-Yes. However, as discussed in the [title page](Animal_Rights.html), an activity does not become
+Yes. However, as discussed in the title page, an activity does not become
 morally justified simply because it has been going on for a long
 period of time.  Slavery, genocide, rape, and torture are
 all activities which have been going on since long before the
@@ -3188,8 +3168,7 @@ other animals are our equals?**
 Before answering this, I need to first emphasize that this
 is a view which is not shared by many animal rights activists.
 For example, there are some animal rights activists who hold the
-view that only human beings are [made
-in the image of God](animal_soul.html).
+view that only human beings are made in the image of God.
 
 However, I myself do believe that other animals are our equals
 in some sense, and I would like to explain the reasoning behind
@@ -3284,14 +3263,8 @@ criticisms of slavery and segregation.
 
 Follow up question:
 
-[Shouldn't
-we focus on solving human problems before worrying about animals?](human_problems_first.html)
-
-[Back to the title
-page](Animal_Rights.html)
-
-[Back to the
-list of the most commonly asked questions](Questions.html)
+- [Shouldn't
+we focus on solving human problems before worrying about animals?](#human_problems_first)
 
 
 ---
@@ -3371,37 +3344,6 @@ I always appreciate receiving feedback.
 
   
 
-**My web sites:**
-
-  
-
-[Animal Rights and Vegan Ethics](FAQ.html)
-
-  
-
-[Objective Morality](morals.html)
-
-  
-
-[Why Children Should Rebel](children.html)
-
-  
-
-[Physics Videos](http://www.youtube.com/user/EugeneKhutoryansky)
-
-  
-
-  
-
-[Back to the title
-page](Animal_Rights.html) 
-
-  
-
-[Back to the list of
-the most commonly asked questions](Questions.html)
-
-
 ---
 
 
@@ -3450,14 +3392,6 @@ The people who chose to do the right thing in the 1940's were risking their live
 The people who choose to do the right thing today are only risking ridicule from their family and friends.
 
  
-
-[Back to the title
-page](Animal_Rights.html) 
-
-  
-
-[Back to the
-list of the most commonly asked questions](Questions.html)
 
 
 ---
