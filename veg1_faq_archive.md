@@ -1883,7 +1883,7 @@ see if it was poisoned, after no one had been eating it for many
 generations?
 
 There is considerable evidence of far more complex cultural
-traditions in animals, particularly with regards to [tool use](animal_tools.html) among primates. However, I
+traditions in animals, particularly with regards to tool use among primates. However, I
 wanted to use rats in my example to emphasize that it is not just
 primates which pass cultural traditions to future generations.
 
@@ -2193,13 +2193,13 @@ supporters have many other views.
 
 My personal view is that objective moral laws come from the same place
 that the law of gravity comes from. I explain my reasoning for
-this view in [my other web
-page](morals.html), which deals with morality in general. I need to
+this view in my other web
+page, which deals with morality in general. I need to
 emphasize that the views I express there are **my own
 personal opinions**, and do not necessarily reflect the
 views of other animal rights supporters.
 
-[Link to my other web page.](morals.html)
+[Link to my other web page.](objective-morality.md)
 
 
 
