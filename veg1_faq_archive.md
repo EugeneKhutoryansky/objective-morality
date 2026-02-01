@@ -738,14 +738,8 @@ die at the hands of humans.
 
 Follow up question:
 
-[Doesn't the Bible say that humans have
-dominion over the animals?](dominion.html)
-
-[Back to the title
-page](Animal_Rights.html)
-
-[Back to the list of
-the most commonly asked questions](Questions.html)
+- [Doesn't the Bible say that humans have
+dominion over the animals?](#dominion)
 
 
 ---
