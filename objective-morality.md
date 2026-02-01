@@ -179,7 +179,7 @@ The truth of a moral statement should also not be evaluated by how difficult it 
 I will now give examples of how the method I have described can be used on various issues while continuing to explain the method. I would like to point out again that the conclusions I reach are not the final say on the matter. I am not giving these examples in order to convert people to my position on these issues, but just to illustrate how this method can be applied. Many of my positions are going to be extremely unpopular, and will seem to go against much of what we have been taught. But then, if someone in the Roman Empire had claimed that it was immoral to feed prisoners to lions for entertainment, he would have gotten the same reaction. The first example I give is determining if it is immoral to eat meat. I spend more time on the first example than I do most of the others. This is because I use the first example to illustrate common types of flaws in objections people may have to a moral claim.
 
 
-Eating meat
+### Eating meat
 
 The way a person can claim that it is wrong to eat meat is by comparing it to cannibalism. That is, since it is immoral to eat human beings, it is in the same manner immoral to eat other animals. This, of course, rests on the assumption that it is immoral to kill human beings for the purpose of eating them. Let us suppose that we have already agreed that it is immoral to eat other human beings. Perhaps we came to this conclusion by imagining how we would like it if we were killed for food. The question which we have to answer is if we can come up with a valid objection to the comparison between eating human beings and eating other animals.
 
@@ -222,7 +222,7 @@ This example, the morality of eating meat, was long due to the fact that I wante
 
 
 
-Internal morality
+### Internal morality
 
 In the introduction, I defined morality in terms of how a person’s actions affect others. Is it possible that there exists an "internal morality" within this framework? In other words, is it possible for something to be immoral even though it does not harm anyone else? I believe that the answer is yes. My purpose here is not to come up with a complete list of all the cases where this occurs. Here, I will simply show how this is possible even under my definition.
 
@@ -237,7 +237,7 @@ I would like to point out what I do not mean by this claim. I do not mean that i
 I, of course, do not propose that we make it illegal to think certain thoughts or to have certain desires. I believe that everyone should have the legal right to wish for whatever they want.
 
 
-Forcing your morality on others
+### Forcing your morality on others
 
 I will now address the issue of when, if ever, it is permissible to force your morality on others. Some might want to believe that it is never permissible to force your morality on others. However, some reflection should point out that we already force our morality on others. When we pass a law making it illegal to kill people for pleasure, we are “forcing our morality” on those who believe that it is acceptable to kill people for pleasure. But, at the same time, not everything which is immoral should be made illegal. It may be immoral to “desire” to kill another person. However, I doubt anyone believes that this should be a punishable crime. Under what circumstances, then, is it permissible to “force our morality” on others by writing it into law?
 
@@ -258,7 +258,7 @@ When I talked about determining if it is immoral to torture a prisoner, I talked
 When we do “force our morality” on others, we should always bear in mind that there is a chance that we are wrong. We should always go about this business in a very careful and humble manner. We should always listen to other people’s arguments about why our moral beliefs are incorrect. We should also have punishments due to a violation of such a law accompanied by an explanation of why it is believed that the action in question is wrong.
 
 
-Abortion
+### Abortion
 
 Is abortion immoral? People often claim abortion is immoral by comparing it to killing a newborn infant. Let us assume that we agree that killing a newborn infant is immoral. Is there a distinguishing characteristic between killing a fetus and killing a newborn infant? Simply saying "the characteristic of being a newborn infant" is not a valid distinction. The reason that it is not valid is explained in the section on eating meat. The ability to survive without external support can not be a distinguishing characteristic if we also want to believe that it is immoral to kill an adult who is temporarily on life support.
 
@@ -287,7 +287,7 @@ I will examine one more attempt to claim that abortion is immoral in the beginni
 I do believe that it would be wrong for us as a people to all simultaneously decide not to have children and cause our generation to be the last. I think that collectively we have a responsibly to keep life going. However, this scenario of everyone simultaneously deciding not to have children is not going to happen. Since the real problem is currently overpopulation, I believe it is currently commendable for individuals to decide not to have children. Although we may have a responsibility to make sure that there is a next generation, it does not seem, based on the reasons discussed here, that we have a responsibility to ensure the existence of any particular possible future individual.
 
 
-Determining if another being possesses consciousness
+### Determining if another being possesses consciousness
 
 What we think about a moral argument can greatly depend on how we attempt to determine if another being is conscious. I will now address this issue. I first need to say that we can not establish very much, if anything, with 100% certainty. Perhaps your whole life has been a dream. We can not know with 100% certainty that this statement is not true. Nevertheless, we establish degrees of belief. If someone were to ask you, for example, to express as a percentage your degree of belief in that it will rain tomorrow, you could answer 60%. For other things, we are more certain. If someone asked you to express as a percentage your belief that the sun will rise tomorrow, you could answer that it very near 100%, but not quite. If someone asked you what your degree of belief is that your entire life is a dream, you could answer that it is very close to 0%.
 
@@ -315,7 +315,7 @@ Our degree of belief about if another being is conscious can be expressed as a p
 So what do we do when we are completely uncertain about another being’s consciousness? The answer is that we should do the same thing which we do when we are uncertain about the consequences of our actions in general. If we believe that a certain form of entertainment has a 5% probability of killing another person, then it would be immoral for us to entertain ourselves in that manner. The same result should hold for a form of entertainment which will kill a being which we believe is conscious with 5% certainty. On the other hand, every time we choose to drive our car to work, there is an extremely small possibility that this action will end up killing someone. Nevertheless, driving our car does not become immoral as a result of this. The same results would hold in a similar situation where our degree of belief in another individual’s consciousness had an equally low rating. However, the outcome would be different if the chances were equally low but the situation dealt with the lives of many individuals. It would be immoral, for example, to construct a nuclear power plant which has these odds of having a melt down in the future. Again, the same result holds for uncertainty regarding the consciousness of a large number of beings.
 
 
-War
+### War
 
 Under what conditions, if any, is war permissible? Is it ever permissible to kill another human being? To answer this second question, let us recall the scenario of a gunman in a store. If killing the gunman is the only way to prevent him from killing the other people in the store, then most people would agree that killing this gunman is acceptable in this situation. So, it would appear that in some situations, it is permissible to kill another human being.
 
@@ -342,7 +342,7 @@ I would like to say one more thing about this issue. We can not justify the deat
 The situation regarding attacks on military targets which kill civilians is no different. Suppose that a political leader is contemplating an attack on a military target. He asks his military advisers what the odds are that no civilians will be killed. His military advisers answer that it is extremely small. The best we thing we can realistically hope for, they say, is that very few civilians will be killed. Killing these civilians by ordering the attack is just as "intentional" as is killing the pedestrian. Just like the pedestrian, the civilians are not the target, they just get in the way. Nevertheless, this does not make the act "unintentional".
 
 
-The value of a life
+### The value of a life
 
 Is it ever correct to say that the value of one life is worth more than another? Is it, for example, correct to say that the value of the life of a heart surgeon is worth more than that of a homeless person? Is it correct to say that the value of the life of an adult is worth more than that of an infant five minutes before birth? Is it correct to say that the value of the life of a human is worth more than the life of a rat?
 
@@ -363,7 +363,7 @@ Sometimes we are in a position where we can only save a limited number of lives,
 I believe that it is never correct to say that one conscious being’s life is worth more than that of another. The value of a life is not a quantifiable value. In other words, it is not possible to equate it into something like a dollar amount.
 
 
-Animal Rights
+### Animal Rights
 
 It is no longer as fashionable as it once was to value a person’s life less due to the fact that he is of a different race, ethnicity, or religion. As I mentioned in the section on war, though, it is still fairly fashionable to value a person’s life less due to the fact that he is a citizen of a different country. Leaders in the United States, for example, often attempt to unite people by saying something like, "Regardless of our race or ethnic background, all that counts is that we are Americans". Though it is good that such a speech points out that features such as race are irrelevant, I believe that this type of speech misses a more fundamental point. This is that whether or not a person is an American is also irrelevant. A life of a person living in Iran is not less valuable than that of a person living in the United States.
 
