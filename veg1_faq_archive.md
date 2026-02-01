@@ -583,14 +583,8 @@ In fact, they sometimes know it much better than we humans do.
 
 Follow up question:
 
-[What evidence is there that other
-animals can make moral decisions?](macaques.html)
-
-[Back to the title
-page](Animal_Rights.html)
-
-[Back to the list of
-the most commonly asked questions](Questions.html)
+- [What evidence is there that other
+animals can make moral decisions?](#macaques)
 
 
 ---
@@ -673,13 +667,7 @@ We have far more options for what to eat in our modern society than people had i
 
 Follow up question:
 
-[Why is it wrong to eat fish?](fish.html)
-
-[Back to the title
-page](Animal_Rights.html)
-
-[Back to the list of
-the most commonly asked questions](Questions.html)
+- [Why is it wrong to eat fish?](#fish)
 
 
 ---
