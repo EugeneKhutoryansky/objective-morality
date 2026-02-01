@@ -3,7 +3,7 @@
 *Based on Scientific and Rational Reasoning*  
 
 **Author:** Eugene Khutoryansky  
-**Original URL:** https://veg1.org/morals.html
+**Original URL:** https://veg1.org
 **Mirror:** This file mirrors the original essay for accessibility and long-term preservation.
 
 ---
