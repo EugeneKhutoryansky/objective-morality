@@ -116,8 +116,8 @@ This document consolidates the FAQ-style content from veg1.org into a single, se
 
 **Original URL:** https://veg1.org/Animal_Rights.html
 
-Animal Rights and Vegan Ethics
-Written by Eugene Khutoryansky
+**Animal Rights and Vegan Ethics**
+**Written by Eugene Khutoryansky**
 
 The purpose of this web page is to answer the most commonly
 asked questions about animal rights.
