@@ -995,7 +995,7 @@ begin?**
   
 
 No one can answer this question with any degree of certainty.
-However, the animals which humans kill for food and clothing [clearly are conscious](animal_consciousness.html).
+However, the animals which humans kill for food and clothing clearly are conscious.
 Therefore, the fact that we do not know precisely the location of
 the demarcation line should not be an excuse for us to continue
 to kill animals for food.
@@ -1015,7 +1015,7 @@ extremely good at multivariable calculus, but possess no
 consciousness whatsoever.
 
 My personal opinion, although I can not prove it, is that the
-demarcation line for consciousness lies somewhere in the [insect](insects.html) world. I believe that at least
+demarcation line for consciousness lies somewhere in the insect world. I believe that at least
 some types of insects do possess the capacity to feel pain, and I
 do include insects in my animal rights philosophy.
 
@@ -1088,8 +1088,7 @@ without injuring him.
 
 With regards to animal rights, the distinguishing
 characteristic between plants and animals is that animals possess
-consciousness, whereas [plants
-do not](plant_consciousness.html). Although I can not prove it with absolute 100%
+consciousness, whereas plants do not. Although I can not prove it with absolute 100%
 certainty, I believe that at least certain insects are also
 conscious. By this, I do not mean that insects discuss
 philosophy, but simply that they feel sensations such as pain and
@@ -1316,8 +1315,7 @@ However, this does not imply that it is OK to experiment on
 other people's children in order to find a cure for your own.
 
 The important thing to remember is that in many cases, there
-are [alternative methods](medical_alternatives.html)
-for performing medical research without testing on animals, and
+are alternative methods for performing medical research without testing on animals, and
 that the animals used in these experiments often suffer a fate
 far worse than death.  For example, a common practice for
 those who use dogs in their research is to remove the dog's vocal
@@ -1326,8 +1324,8 @@ screaming.
 
 However, regardless of what we think about the more
 controversial aspects of animal rights, such as medical
-experimentation on animals, we should keep in mind that [veganism is not a case of
-choosing between saving your child or your dog](cat_analogy.html).
+experimentation on animals, we should keep in mind that veganism is not a case of
+choosing between saving your child or your dog.
 
 
 
@@ -1473,7 +1471,7 @@ food.
 **How is experimenting on animals any different from
 other situations where humans kill animals for survival?**
 
-Aside from the fact that there are often [alternative methods](medical_alternatives.html) for
+Aside from the fact that there are often alternative methods for
 doing medical research, the concern regarding experimentation is
 not just that animals are killed in the process. The greater
 concern is the suffering involved, which is often a fate
@@ -1627,7 +1625,7 @@ and understand abstract concepts?**
 
   
 
-Even [insects](insects.html) possess language, since
+Even insects possess language, since
 they communicate with each other using chemicals and body
 language. All animals have a language, even though they do not
 speak with a human voice.
@@ -1695,16 +1693,15 @@ to learn even a single word that the dolphins are saying.
 
 Other animals recognize both themselves and others as
 individuals. Animals clearly remember both their own and everyone
-else's place in the social hierarchy. They use [language to express abstract concepts](language.html).
-They remember which individuals in their community are their [friends](social_contracts.html). They pass on [cultural information](animal_culture.html) from one
-generation to the next. And they [mourn
-their dead](concept_of_death.html).
+else's place in the social hierarchy. They use language to express abstract concepts.
+They remember which individuals in their community are their friends. They pass on cultural information from one
+generation to the next. And they mourn their dead.
 
 In spite of all this, the evidence which finally convinces
 most skeptics is the mirror experiment. This test involves
 placing a mirror in front of an animal, and checking if the
 animal realizes they are looking at a reflection of themselves. Various
-animals, such as dolphins, chimpanzees, some birds and fish, and certain [ants](ants.html) pass the
+animals, such as dolphins, chimpanzees, some birds and fish, and certain ants pass the
 mirror test. Some of these animals go to great lengths to maneuver in front of the
 mirror so as to closely examine parts of their bodies which they
 normally can not see.
