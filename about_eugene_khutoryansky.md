@@ -16,3 +16,7 @@ I stopped eating meat in 1989 and I stopped eating eggs and dairy in 2000. Since
 I have lived in the Houston area since 2005.
 
 This short autobiography was written by me in 2026.
+
+## Related Work
+
+- [Objective Morality Based on Scientific and Rational Reasoning](objective-morality.md)
