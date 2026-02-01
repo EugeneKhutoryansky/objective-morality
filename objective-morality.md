@@ -473,7 +473,10 @@ This, I believe, is analogous to the progress of science and technology with the
 
 The difference between technology and morality is that there was an unprecedented burst of development of technology with the industrial revolution, while there was no accompanying burst of development with regards to morality. How technologically advanced a civilization is does not necessarily have a correlation to how morally advanced it is. We have to be aware of the fact, though, that neither technology nor morality improve simply due to the passage of time. They improve due to human effort and struggle.
 
+## About the Author
 
+For biographical context, see:
+- [Autobiographical Statement — Eugene Khutoryansky](about_eugene_khutoryansky.md)
 
 
 
