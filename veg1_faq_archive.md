@@ -2206,7 +2206,7 @@ emphasize that the views I express there are **my own
 personal opinions**, and do not necessarily reflect the
 views of other animal rights supporters.
 
-- [Link to my other web page.](objective-morality.md)
+- [Link to my other web page on Objective Morality.](objective-morality.md)
 - [Back to the list of the most commonly asked questions](#list)
 
 
@@ -2602,8 +2602,7 @@ Also, there are many "free range" and "organic" companies that claim that they t
 
 In any case, no animal wants to go to the slaughterhouse.
 
-Follow up question:
-
+**Follow up question:**
 - [What if humans treat and slaughter the animals humanely?](#humane_slaughter)
 - [Back to the list of the most commonly asked questions](#list)
 
@@ -2615,7 +2614,11 @@ Follow up question:
 
 **Original URL:** https://veg1.org/Kosher.html
 
+Kosher and Halal slaughterhouses typically purchase their animals from the exact same farms that all other slaughterhouses do. So, although the slaughter process is different, the way the animals are raised is typically the same as in standard factory farming videos. Also, there have been Kosher slaughterhouses that bragged to everyone about how "humanely" they killed the animals, but when undercover investigators brought in hidden cameras, they showed just how horrible it really was.
 
+**Follow-up questions:**
+- [Why are "Free Range" farms not much better?](#vegan)
+- [Back to the list of the most commonly asked questions](#list)
 
 
 
@@ -2627,9 +2630,13 @@ Follow up question:
 
 **Original URL:** https://veg1.org/Cages_are_expensive.html
 
+In reply to the argument that farmers must treat their animals well or they will lose money: Bernard Rollin explains in the book Farm Animal Welfare, it is "more economically efficient to put a greater number of birds into each cage, accepting lower productivity per bird, but greater productivity per cage...Chickens are cheap, cages are expensive."
 
-
-
+**Follow up questions:**
+- [Why are "Free Range" farms not much better?](#vegan)
+- [Does Kosher and Halal meat come from animals that are treated better?](#kosher)
+- [What if humans treat and slaughter the animals humanely?](#humane_slaughter)
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2639,9 +2646,15 @@ Follow up question:
 
 **Original URL:** https://veg1.org/Humane_Slaughter_Law.html
 
+In the United States, the Humane Slaughter Act is rarely enforced, and large slaughterhouses will not stop the assembly lines just because the stun guns failed to work properly. According to Steve Cockerham, a USDA inspector at Nebraska slaughterhouses, and former USDA veterinarian Lester Friedlander, some U.S. slaughterhouses routinely skin live cattle, immerse squealing pigs in scalding water, and abuse still-conscious animals in other ways to keep production lines moving quickly. Cockerham said he often saw plant workers cut the feet, ears, and udders off cattle that were conscious after stun guns failed to work properly. He said, "They were still blinking and moving. It's a sickening thing to see."
 
+Also, the Federal Humane Slaughter Act only applies to mammals, and there are no laws at all for how chickens or other birds are killed.
 
-
+**Follow up questions:**
+- [Why are "Free Range" farms not much better?](#vegan)
+- [Does Kosher and Halal meat come from animals that are treated better?](#kosher)
+- [What if humans treat and slaughter the animals humanely?](#humane_slaughter)
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2651,9 +2664,14 @@ Follow up question:
 
 **Original URL:** https://veg1.org/change_the_law.html
 
+In the United States, many organizations have been trying to do that for decades, but they have not been very successful. For example, there have been ballot initiatives in some states requiring that the cages for the animals have to be made slightly larger. However, even with these laws in place, most of what is shown in the factory farming videos is still legal and standard practice, and even the farms labeled "free range" and "organic" are typically not much better than what is shown there. The problem is that if more significant changes are demanded, the law is unlikely to pass, due to the fact that the industry will correctly point out that this will significantly increase the price of animal products. Also, the few laws that already do exist are rarely enforced.
 
+There is considerable debate among animal advocates about how to best approach this problem. Many organizations are trying to pass additional legislation. Others are concerned that these laws aren't really accomplishing anything other than to create the illusion that the animals are being well treated, when nothing could be further from the truth. But, we do know that getting the public to reduce its consumption of animal products will result in fewer animals having to suffer. The number of animals which the industry breeds is directly proportional to how much meat and other animal products the public buys. So, even if we don't get "everyone" to go vegan, the more vegans there are, the fewer animals will have to go through what is shown in the videos.
 
-
+**Follow up questions:**
+- [Why are "Free Range" farms not much better?](#vegan)
+- [What if humans treat and slaughter the animals humanely?](#humane_slaughter)
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
