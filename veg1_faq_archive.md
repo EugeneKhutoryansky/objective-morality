@@ -236,7 +236,6 @@ darkest aspects of our humanity, as well as those aspects of which we are the mo
 - [How can animals share the aspects of our humanity of which we are the most proud?](#macaques)
 - [How common is cannibalism in the animal kingdom?](#cannibalism)
 - [Back to the list of the most commonly asked questions](#list)
-- [Back to the list of the most commonly asked questions](#list)
   
 ---
 
