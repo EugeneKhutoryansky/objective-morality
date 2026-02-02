@@ -184,7 +184,7 @@ endure a lifetime of suffering and confinement.
 - [What do you think about the phrase "survival of the fittest"?](#survival_of_the_fittest)
 - [What are factory farms?](#vegan)
 - [Why is eating meat wrong?](#cat_analogy)  
-[Back to the list of questions](#list)
+- [Back to the Top of the List of Questions](#list)
 
 
 ---
