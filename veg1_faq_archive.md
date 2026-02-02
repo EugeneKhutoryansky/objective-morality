@@ -3408,9 +3408,7 @@ The people who choose to do the right thing today are only risking ridicule from
 **Original URL:** https://veg1.org/about_me.html
 
 If you would like to send comments or questions, my email
-address is
-
-[Eugene381@comcast.net](mailto:Eugene381@comcast.net)
+address is [Eugene381@comcast.net](mailto:Eugene381@comcast.net)
 
 I always appreciate receiving feedback.
 
