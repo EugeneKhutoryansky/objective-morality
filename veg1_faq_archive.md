@@ -6,6 +6,8 @@
 
 This document consolidates the FAQ-style content from veg1.org into a single, searchable file for long-term preservation.
 
+<a id="list"></a>
+
 ## List of Questions
 
 ---
@@ -182,6 +184,7 @@ endure a lifetime of suffering and confinement.
 - [What do you think about the phrase "survival of the fittest"?](#survival_of_the_fittest)
 - [What are factory farms?](#vegan)
 - [Why is eating meat wrong?](#cat_analogy)
+- [Back to the list of questions](#list)
 
 
 ---
