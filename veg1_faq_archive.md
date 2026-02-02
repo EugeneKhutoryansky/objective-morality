@@ -3396,7 +3396,7 @@ with every person's choices affecting hundreds of animals.
 The people who chose to do the right thing in the 1940's were risking their lives, yet many did so anyway.
 The people who choose to do the right thing today are only risking ridicule from their family and friends.
 
- - [Back to the list of the most commonly asked questions](#list)
+- [Back to the list of the most commonly asked questions](#list)
 
 
 ---
