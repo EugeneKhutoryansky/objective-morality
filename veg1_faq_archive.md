@@ -284,7 +284,7 @@ distinction. On the contrary, a human hunter may actually prefer
 to kill a strong and healthy animal because he makes a better
 trophy.
 
-Follow up question:
+**Follow up question:**
 
 - [Isn't hunting by humans necessary to prevent deer overpopulation?](#deer_overpopulation)
 - [Back to the list of the most commonly asked questions](#list)
@@ -584,7 +584,7 @@ and a soul is required to be able to know the difference between good and evil.
 And according to modern science, we now know that other animals do know right from wrong.
 In fact, they sometimes know it much better than we humans do.
 
-Follow up question:
+**Follow up question:**
 
 - [What evidence is there that other animals can make moral decisions?](#macaques)
 - [Back to the list of the most commonly asked questions](#list)
@@ -667,7 +667,7 @@ scholars do not interpret this phrase literally.
 
 We have far more options for what to eat in our modern society than people had in a small fishing village two thousand years ago.
 
-Follow up question:
+**Follow up question:**
 
 - [Why is it wrong to eat fish?](#fish)
 - [Back to the list of the most commonly asked questions](#list)
@@ -738,7 +738,7 @@ God would create beings capable of feeling pain, suffering, and a
 desire to live, if their only purpose in life was to suffer and
 die at the hands of humans.
 
-Follow up question:
+**Follow up question:**
 
 - [Doesn't the Bible say that humans have dominion over the animals?](#dominion)
 - [Back to the list of the most commonly asked questions](#list)
@@ -2722,7 +2722,7 @@ In both cases, all that we gain in return is just a few moments of trivial pleas
 
 Fish feel pain and suffering just as all other animals do, and just as we humans do. Also, since fish are smaller than other animals, many more die per meal. In addition, over fishing is destroying the ocean ecosystems, and driving many aquatic species towards extinction.
 
-Follow up question:
+**Follow up question:**
 
 - [Why is it wrong to eat dairy and eggs?](#Eggs_and_Dairy)
 - [Back to the list of the most commonly asked questions](#list)
@@ -2747,7 +2747,7 @@ For a cow to give milk, she must first give birth. Therefore, the cows are impre
 With regards to eggs, most male chicks are killed at birth, both for caged and for cage-free eggs. Also, even the cage-free operations still crowd the hens together, cut off a portion of the birds beaks, and kill the hens when their egg production declines. 
 Egg laying hens are by far the worst treated of all farm animals, far more so than the animals raised for meat.
 
-Follow up question:
+**Follow up question:**
 
 - [Why don't you focus on passing laws requiring better treatment for farm animals?](#change_the_law)
 - [Back to the list of the most commonly asked questions](#list)
@@ -3288,7 +3288,7 @@ rationally evaluate these criticisms with an open mind, just as
 we would have wanted earlier generations to rationally evaluate
 criticisms of slavery and segregation.
 
-Follow up question:
+**Follow up question:**
 
 - [Shouldn't we focus on solving human problems before worrying about animals?](#human_problems_first)
 - [Back to the list of the most commonly asked questions](#list)
