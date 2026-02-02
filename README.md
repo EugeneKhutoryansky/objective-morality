@@ -7,6 +7,8 @@ This repository contains philosophical essays and biographical material written 
 ### Philosophy
 - [Objective Morality Based on Scientific and Rational Reasoning](objective-morality.md)  
   An extended essay arguing for the existence of objective moral laws grounded in rational and scientific reasoning.
+- [Animal Rights and Vegan Ethics](veg1_faq_archive.md)
+  Answers the most commonly asked questions about animal rights.
 
 ### Biography
 - [Autobiographical Statement — Eugene Khutoryansky](about_eugene_khutoryansky.md)  
