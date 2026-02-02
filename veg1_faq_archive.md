@@ -3403,7 +3403,7 @@ The people who choose to do the right thing today are only risking ridicule from
 
 <a id="about_me"></a>
 
-## Contact and related links
+## Contact
 
 **Original URL:** https://veg1.org/about_me.html
 
@@ -3413,6 +3413,10 @@ address is [Eugene381@comcast.net](mailto:Eugene381@comcast.net)
 I always appreciate receiving feedback.
 
 - [Back to the list of the most commonly asked questions](#list)
+
+## Related Work
+
+- [Objective Morality Based on Scientific and Rational Reasoning](objective-morality.md)
 
 ---
 
