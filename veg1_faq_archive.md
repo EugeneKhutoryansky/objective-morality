@@ -236,7 +236,8 @@ darkest aspects of our humanity, as well as those aspects of which we are the mo
 - [How can animals share the aspects of our humanity of which we are the most proud?](#macaques)
 - [How common is cannibalism in the animal kingdom?](#cannibalism)
 - [Back to the list of the most commonly asked questions](#list)
-
+- [Back to the list of the most commonly asked questions](#list)
+  
 ---
 
 <a id="survival_of_the_fittest"></a>
@@ -287,7 +288,7 @@ trophy.
 Follow up question:
 
 - [Isn't hunting by humans necessary to prevent deer overpopulation?](#deer_overpopulation)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 
 ---
@@ -320,7 +321,7 @@ By contrast, farm animals exist in such large numbers only because humans breed 
 - [If everyone becomes a vegan, then what will we do with all the farm animals?](#farm_animal_population)
 - [Why should we behave better towards animals than they do towards each other?](#better_than_animals_behave)
 - [Why is it ok for lions to eat meat, but not ok for humans?](#other_animals_kill_each_other)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -357,7 +358,7 @@ cannibalism.
 
 **Follow-up questions:**
 - [Why should we behave better towards animals than they do towards each other?](#better_than_animals_behave)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -401,7 +402,7 @@ overpopulation.
 - [Isn't it unfair and insulting to compare the murder of a human being with the killing of animals?](#humans_are_animals)
 - [Shouldn't we focus on solving human problems before worrying about animals?](#human_problems_first)
 - [If everyone becomes a vegan, then what will we do with all the farm animals?](#farm_animal_population)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -437,7 +438,7 @@ Animal agriculture also destroys native wildlife habitat as the result of the ru
 - [What do you think about the phrase "survival of the fittest"?](#survival_of_the_fittest)
 - [What are factory farms?](#vegan)
 - [Why is eating meat wrong?](#cat_analogy)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -487,7 +488,7 @@ One can not sincerely claim to follow the Bible, the Torah, or the Quran, and th
 - [Does Kosher and Halal meat come from animals that are treated better?](#kosher)
 - [If God did not want us to eat meat, then why did he place animals on the Earth?](#why_create_animals)
 - [Don't only human beings have a soul?](#animal_soul)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -544,7 +545,7 @@ be applied to all beings, including slaves and animals.
 - [If God did not want us to eat meat, then why did he place animals on the Earth?](#why_create_animals)
 - [Don't only human beings have a soul?](#animal_soul)
 - [Doesn't the Bible give humans dominion over the animals?](#dominion)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -586,9 +587,8 @@ In fact, they sometimes know it much better than we humans do.
 
 Follow up question:
 
-- [What evidence is there that other
-animals can make moral decisions?](#macaques)
-
+- [What evidence is there that other animals can make moral decisions?](#macaques)
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -617,7 +617,7 @@ The Bible passage in Romans 14:1-23 is regarding a dispute about whether Jews we
 - [If God did not want us to eat meat, then why did he place animals on the Earth?](#why_create_animals)
 - [Don't only human beings have a soul?](#animal_soul)
 - [Doesn't the Bible give humans dominion over the animals?](#dominion)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -649,7 +649,7 @@ scholars do not interpret this phrase literally.
 - [If God did not want us to eat meat, then why did he place animals on the Earth?](#why_create_animals)
 - [Don't only human beings have a soul?](#animal_soul)
 - [Doesn't the Bible give humans dominion over the animals?](#dominion)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -671,7 +671,7 @@ We have far more options for what to eat in our modern society than people had i
 Follow up question:
 
 - [Why is it wrong to eat fish?](#fish)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -714,7 +714,7 @@ Nevertheless, the existence of these passages in the Bible is not viewed as an e
 - [What about the stories involving Jesus and fish?](#jesus_fish)
 - [If God did not want us to eat meat, then why did he place animals on the Earth?](#why_create_animals)
 - [Don't only human beings have a soul?](#animal_soul)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -741,9 +741,8 @@ die at the hands of humans.
 
 Follow up question:
 
-- [Doesn't the Bible say that humans have
-dominion over the animals?](#dominion)
-
+- [Doesn't the Bible say that humans have dominion over the animals?](#dominion)
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -797,7 +796,7 @@ eat plants.
 - [How do you know that other animals can feel pain?](#animal_consciousness)
 - [Where in the animal kingdom does consciousness begin?](#where_consciousness_begins)
 - [Is it ok to kill animals which do not possess consciousness?](#killing_unconscious_animals)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -834,7 +833,7 @@ Plants have the ability to react to an outside stimulus, such as responding with
 - [What about insects?](#insects)
 - [Where in the animal kingdom does consciousness begin?](#where_consciousness_begins)
 - [Is it ok to kill animals which do not possess consciousness?](#killing_unconscious_animals)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -867,7 +866,7 @@ diet.
 - [If everyone becomes a vegan, then what will we do with all the farm animals?](#farm_animal_population)
 - [How do you know that other animals can feel pain?](#animal_consciousness)
 - [Where in the animal kingdom does consciousness begin?](#where_consciousness_begins)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -906,7 +905,7 @@ indicate consciousness.
 - [What about insects?](#insects)
 - [Where in the animal kingdom does consciousness begin?](#where_consciousness_begins)
 - [Is it ok to kill animals which do not possess consciousness?](#killing_unconscious_animals)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -937,7 +936,7 @@ to live.
 - [How do you know that plants can not feel pain?](#plant_consciousness)
 - [What would you do if we hypothetically discovered that plants do indeed feel pain?](#what_if_plants_feel_pain)
 - [Don't plants move their leaves to follow the sun?](#plants_move_leaves)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -979,7 +978,7 @@ will forever be our equals.
 - [Don't only humans understand the concept of death?](#concept_of_death)
 - [Don't only humans have the ability to use language and understand abstract concepts?](#language)
 - [Shouldn't we focus on solving human problems before worrying about animals?](#human_problems_first)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1031,7 +1030,7 @@ do include insects in my animal rights philosophy.
 - [Don't insects only behave on an instinctual level?](#insect_instinct)
 - [What do you do when a colony of insects infests your home?](#pests)
 - [Aren't only humans self aware?](#self_aware)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1071,7 +1070,7 @@ than does a plant or a brain dead human.
 - [Aren't there some religions which believe that plants possess a soul?](#plant_soul)
 - [How do you know that other animals can feel pain?](#animal_consciousness)
 - [Where in the animal kingdom does consciousness begin?](#where_consciousness_begins)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1113,7 +1112,7 @@ not imply that it is ok to run them over on purpose.
 - [Don't insects only behave on an instinctual level?](#insect_instinct)
 - [Do ants recognize their reflection in a mirror?](#ants)
 - [How do you know that plants can not feel pain?](#plant_consciousness)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1143,7 +1142,7 @@ homes.
 - [Do you view the killing of an insect as the moral equivalent of killing a bird or mammal?](#insect_equality)
 - [Don't insects only behave on an instinctual level?](#insect_instinct)
 - [Do ants recognize their reflection in a mirror?](#ants)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1184,7 +1183,7 @@ had to choose between saving a mammal or saving an insect.
 - [What do you do when a colony of insects infests your home?](#pests)
 - [Don't insects only behave on an instinctual level?](#insect_instinct)
 - [Do ants recognize their reflection in a mirror?](#ants)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1258,7 +1257,7 @@ whether or not it is the best one.
 - [What do you do when a colony of insects infests your home?](#pests)
 - [Do you view the killing of an insect as the moral equivalent of killing a bird or mammal?](#insect_equality)
 - [How do you know that plants can not feel pain?](#plant_consciousness)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1293,7 +1292,13 @@ When put in the company of those with blue-dotted faces, other ants would respon
 
 Given that these ants tried to clean the mark rather than respond aggressively, the ants likely didn't think their reflection was just another ant. The team thinks their study shows that self-recognition is not an "unrealistic" ability in ants.
 
+**Follow-up questions:**
 
+- [What do you do when a colony of insects infests your home?](#pests)
+- [Do you view the killing of an insect as the moral equivalent of killing a bird or mammal?](#insect_equality)
+- [Don't insects only behave on an instinctual level?](#insect_instinct)
+- [Back to the list of the most commonly asked questions](#list)
+  
 ---
 
 <a id="your_child_or_your_dog"></a>
@@ -1340,7 +1345,7 @@ choosing between saving your child or your dog.
 - [Isn't it insulting to compare human beings with animals?](#humans_are_animals)
 - [Aren't animals also killed during the harvesting of crops and the construction of roads?](#harvesting_crops)
 - [How is experimenting on animals any different from other situations where humans kill animals for survival?](#experimenting_survival)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1377,7 +1382,7 @@ more widely.
 - [Aren't animals also killed during the harvesting of crops and the construction of roads?](#harvesting_crops)
 - [How is experimenting on animals any different from other situations where humans kill animals for survival?](#experimenting_survival)
 - [What if you were in a burning building and could only save your child or your dog?](#your_child_or_your_dog)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1423,7 +1428,7 @@ saving drugs which were developed through animal testing.
 - [Aren't there laws regulating the use of animals in laboratories?](#animal_welfare_act)
 - [How is experimenting on animals any different from other situations where humans kill animals for survival?](#experimenting_survival)
 - [What if you were in a burning building and could only save your child or your dog?](#your_child_or_your_dog)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1460,7 +1465,7 @@ food.
 - [Isn't it insulting to compare human beings with animals?](#humans_are_animals)
 - [Aren't animals also killed during the harvesting of crops and the construction of roads?](#harvesting_crops)
 - [How is experimenting on animals any different from other situations where humans kill animals for survival?](#experimenting_survival)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1491,7 +1496,7 @@ perform such experiments on convicted felons awaiting execution.
 - [What if the cure to cancer could be produced by a hypothetical experiment on just a single animal?](#single_experiment)
 - [What if you were in a burning building and could only save your child or your dog?](#your_child_or_your_dog)
 - [Isn't it insulting to compare human beings with animals?](#humans_are_animals)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1574,7 +1579,7 @@ the exact same experiment on a member of our own species.
 - [Do animal rights supporters refrain from using life saving drugs which were developed through animal testing?](#refrain_from_drugs)
 - [Aren't animals also killed during the harvesting of crops and the construction of roads?](#harvesting_crops)
 - [How is experimenting on animals any different from other situations where humans kill animals for survival?](#experimenting_survival)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1610,7 +1615,7 @@ even genetically closer to humans than rats are to mice.
 - [Don't only humans have the ability to enter social contracts?](#social_contracts)
 - [Don't only humans have the ability to use tools?](#animal_tools)
 - [How can some animal rights activists believe that other animals are our equals?](#animal_equality)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1677,7 +1682,7 @@ to learn even a single word that the dolphins are saying.
 - [Don't only humans have the ability to enter social contracts?](#social_contracts)
 - [Don't only humans have the ability to use tools?](#animal_tools)
 - [How can some animal rights activists believe that other animals are our equals?](#animal_equality)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1747,7 +1752,7 @@ our present society views the mental abilities of animals.
 - [Don't only humans have the ability to use tools?](#animal_tools)
 - [How do you know that other animals can feel pain?](#animal_consciousness)
 - [Where in the animal kingdom does consciousness begin?](#where_consciousness_begins)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1841,7 +1846,7 @@ agony of our victims through a one way mirror.
 - [The macaque monkeys were making a decision of whether or not to inflict suffering on their own kind, not on a different species. So, isn't it innacurate to compare this situation to eating meat?](#holocaust)
 - [Aren't the animals already dead when we purchase meat in a grocery store?](#already_dead)
 - [Even though these macaque monkeys understand moral concepts, this is not true for all animals. Why do we have a moral obligation to those animals who do not understand moral concepts?](#moral_agents)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1903,7 +1908,7 @@ primates which pass cultural traditions to future generations.
 - [Don't only humans have the ability to enter social contracts?](#social_contracts)
 - [Don't only humans have the ability to use tools?](#animal_tools)
 - [How can some animal rights activists believe that other animals are our equals?](#animal_equality)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1941,7 +1946,7 @@ human mother would.
 - [Where in the animal kingdom does consciousness begin?](#where_consciousness_begins)
 - [Don't only human beings have a soul?](#animal_soul)
 - [How can some animal rights activists believe that other animals are our equals?](#animal_equality)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -1991,7 +1996,7 @@ in need of assistance.
 - [Don't only humans understand the concept of death?](#concept_of_death)
 - [Don't only humans have the ability to use tools?](#animal_tools)
 - [How can some animal rights activists believe that other animals are our equals?](#animal_equality)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2051,7 +2056,7 @@ to human societies.
 - [Don't only humans understand the concept of death?](#concept_of_death)
 - [Don't only humans have the ability to enter social contracts?](#social_contracts)
 - [How can some animal rights activists believe that other animals are our equals?](#animal_equality)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2088,7 +2093,7 @@ equal to that of humans.
 **Follow-up questions:**
 - [Don't only human beings have a soul?](#animal_soul)
 - [How can some animal rights activists believe that other animals are our equals?](#animal_equality)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2117,7 +2122,7 @@ line, and for what reason.
 - [Why do we have a moral obligation to animals who do not understand moral concepts?](#moral_agents)
 - [What is meant by the term rights ?](#what_are_rights)
 - [What do we gain by respecting the rights of other animals if they do not respect our rights?](#gain)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2164,7 +2169,7 @@ their fur, and slaughtering animals for food.
 - [Why do we have a moral obligation to animals who do not understand moral concepts?](#moral_agents)
 - [What do we gain by respecting the rights of other animals if they do not respect our rights?](#gain)
 - [Do you want to make eating meat illegal?](#making_meat_illegal)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2202,8 +2207,8 @@ emphasize that the views I express there are **my own
 personal opinions**, and do not necessarily reflect the
 views of other animal rights supporters.
 
-[Link to my other web page.](objective-morality.md)
-
+- [Link to my other web page.](objective-morality.md)
+- [Back to the list of the most commonly asked questions](#list)
 
 
 **Follow-up questions:**
@@ -2246,7 +2251,7 @@ behave towards each other.
 - [Should we try to prevent other animals from killing and eating each other?](#prevent_predation)
 - [What do you think about the phrase "survival of the fittest"?](#survival_of_the_fittest)
 - [Why do you say that humans behave far worst towards animals than animals do towards each other?](#vegan)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2281,7 +2286,7 @@ not the only animals capable of understanding moral concepts.
 - [What is meant by the term rights ?](#what_are_rights)
 - [Where do rights come from?](#where_rights_come_from)
 - [How can animals have rights?](#can_animals_have_rights)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2330,7 +2335,7 @@ of others, even when we have nothing to gain in return.
 - [What is meant by the term rights ?](#what_are_rights)
 - [Where do rights come from?](#where_rights_come_from)
 - [How can animals have rights?](#can_animals_have_rights)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2369,7 +2374,7 @@ There is no such thing as a humane concentration camp and there is absolutely no
 - [If everyone becomes a vegan, then what will we do with all the farm animals?](#farm_animal_population)
 - [Aren't animals also killed during the harvesting of crops and the construction of roads?](#harvesting_crops)
 - [If we didn't raise animals for food, then they would never have had the chance to be born and experience life at all](#chance_to_live)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2400,7 +2405,7 @@ reasons.
 **Follow-up questions:**
 - [Aren't the animals already dead when we purchase meat in a grocery store?](#already_dead)
 - [Aren't animals also killed during the harvesting of crops and the construction of roads?](#harvesting_crops)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2462,7 +2467,7 @@ purpose.
 - [Isn't it wrong for vegans to act as if they are better than others and try to convert people?](#better_than_others)
 - [If everyone becomes a vegan, then what will we do with all the farm animals?](#farm_animal_population)
 - [How is experimenting on animals any different from other situations where humans kill animals for survival?](#experimenting_survival)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2519,7 +2524,7 @@ supporters.
 - [How common is cannibalism in the animal kingdom?](#cannibalism)
 - [Isn't it unfair and insulting to compare the murder of a human being with the slaughter of animals?](#humans_are_animals)
 - [What about eating road kill?](#road_kill)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2579,7 +2584,7 @@ born and experience life.
 - [How are farm animals currently treated?](#vegan)
 - [Isn't it unfair and insulting to compare the murder of a human being with the slaughter of animals?](#humans_are_animals)
 - [How common is cannibalism in the animal kingdom?](#cannibalism)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2601,6 +2606,7 @@ In any case, no animal wants to go to the slaughterhouse.
 Follow up question:
 
 - [What if humans treat and slaughter the animals humanely?](#humane_slaughter)
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2680,7 +2686,7 @@ In both cases, all that we gain in return is just a few moments of trivial pleas
 - [What about how other animals kill and eat each other?](#other_animals_kill_each_other)
 - [Doesn't the Bible say that humans have dominion over the animals?](#dominion)
 - [What about killing plants?](#killing_plants)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2702,6 +2708,7 @@ Fish feel pain and suffering just as all other animals do, and just as we humans
 Follow up question:
 
 - [Why is it wrong to eat dairy and eggs?](#Eggs_and_Dairy)
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2726,7 +2733,7 @@ Egg laying hens are by far the worst treated of all farm animals, far more so th
 Follow up question:
 
 - [Why don't you focus on passing laws requiring better treatment for farm animals?](#change_the_law)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2764,7 +2771,7 @@ entirely out of plant based ingredients.
 - [What about how other animals kill and eat each other?](#other_animals_kill_each_other)
 - [Isn't it wrong for vegans to act as if they are better than others and try to convert people?](#better_than_others)
 - [What about killing plants?](#killing_plants)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2790,7 +2797,7 @@ fact that something is legal does not imply that it is moral.
 **Follow-up questions:**
 - [Why is eating meat wrong?](#cat_analogy)
 - [Do you want to make eating meat illegal?](#making_meat_illegal)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2823,7 +2830,7 @@ the number today.
 - [If we didn't raise animals for food, then they would never have had the chance to be born and experience life at all](#chance_to_live)
 - [If everyone becomes a vegan, won't this create economic hardship for those who depend on animal agriculture?](#economic_hardship)
 - [Aren't the animals already dead when we purchase meat in a grocery store?](#already_dead)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2862,7 +2869,7 @@ future.
 - [If we didn't raise animals for food, then they would never have had the chance to be born and experience life at all](#chance_to_live)
 - [If everyone becomes a vegan, won't this create economic hardship for those who depend on animal agriculture?](#economic_hardship)
 - [Meat tastes too good to become a vegan.](#meat_tastes_good)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2902,7 +2909,7 @@ invented.
 - [If everyone becomes a vegan, then what will we do with all the farm animals?](#farm_animal_population)
 - [Isn't it insulting to compare human beings with animals?](#humans_are_animals)
 - [Why is eating meat wrong?](#cat_analogy)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2944,7 +2951,7 @@ history.
 - [What about killing plants?](#killing_plants)
 - [What about insects?](#insects)
 - [Doesn't the Bible say that humans have dominion over the animals?](#dominion)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -2994,7 +3001,7 @@ world history.
 - [Doesn't the Bible say that humans have dominion over the animals?](#dominion)
 - [How are animals currently raised for food?](#vegan)
 - [Why is eating meat wrong?](#cat_analogy)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -3025,7 +3032,7 @@ American diet.
 
 **Follow-up questions:**
 - [Why is eating meat wrong?](#cat_analogy)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -3053,7 +3060,7 @@ that we stop.
 **Follow-up questions:**
 - [Isn't it wrong for vegans to act as if they are better than others and try to convert people?](#better_than_others)
 - [Do you want to make eating meat illegal?](#making_meat_illegal)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -3095,7 +3102,7 @@ the animals which we send to the slaughter house.
 - [Isn't it insulting to compare human beings with animals?](#humans_are_animals)
 - [Aren't animals also killed during the harvesting of crops and the construction of roads?](#harvesting_crops)
 - [Isn't it wrong for vegans to act as if they are better than others and try to convert people?](#better_than_others)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -3152,7 +3159,7 @@ purchase a new TV or go on an expensive vacation.
 - [Isn't it wrong for vegans to act as if they are better than others and try to convert people?](#better_than_others)
 - [What do animal rights activists think about abortion?](#abortion)
 - [Doesn't duty to our own kind come first?](#holocaust)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -3212,7 +3219,7 @@ as we do, and they value their lives just as we value ours.
 - [Isn't it insulting to compare human beings with animals?](#humans_are_animals)
 - [Don't only human beings have a soul?](#animal_soul)
 - [Doesn't duty to our own kind come first?](#holocaust)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -3266,9 +3273,8 @@ criticisms of slavery and segregation.
 
 Follow up question:
 
-- [Shouldn't
-we focus on solving human problems before worrying about animals?](#human_problems_first)
-
+- [Shouldn't we focus on solving human problems before worrying about animals?](#human_problems_first)
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -3286,9 +3292,9 @@ Some animal rights activists are pro-choice. Others are pro-life. Opposing abort
 
 
 
-**Follow-up questions:**
+**Follow-up question:**
 - [Shouldn't we focus on solving human problems before worrying about animals?](#human_problems_first)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -3328,7 +3334,7 @@ simply because they are believed to be different from us.
 - [Isn't it insulting to compare human beings with animals?](#humans_are_animals)
 - [Shouldn't we focus on solving human problems before worrying about animals?](#human_problems_first)
 - [What if you were in a burning building and could only save your child or your dog?](#your_child_or_your_dog)
-
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
@@ -3373,7 +3379,7 @@ with every person's choices affecting hundreds of animals.
 The people who chose to do the right thing in the 1940's were risking their lives, yet many did so anyway.
 The people who choose to do the right thing today are only risking ridicule from their family and friends.
 
- 
+ - [Back to the list of the most commonly asked questions](#list)
 
 
 ---
@@ -3391,7 +3397,7 @@ address is
 
 I always appreciate receiving feedback.
 
-  
+- [Back to the list of the most commonly asked questions](#list)
 
 ---
 
