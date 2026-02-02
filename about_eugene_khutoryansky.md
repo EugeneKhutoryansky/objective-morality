@@ -20,3 +20,4 @@ This short autobiography was written by me in 2026.
 ## Related Work
 
 - [Objective Morality Based on Scientific and Rational Reasoning](objective-morality.md)
+- [Animal Rights and Vegan Ethics](veg1_faq_archive.md)
