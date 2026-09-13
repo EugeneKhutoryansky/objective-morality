@@ -7,11 +7,15 @@ I have a YouTube channel titled "Physics Videos by Eugene Khutoryansky." My YouT
 YouTube channel:  
 https://www.youtube.com/user/EugeneKhutoryansky
 
-In addition to my YouTube channel, I have also written a number of philosophical essays, such as *Objective Morality Based on Scientific and Rational Reasoning*, which I wrote in 1996. In this essay, I argue that objective moral laws exist independently of human beliefs and human civilization, in the same way that objective physical laws, such as the law of gravity, exist independently of human beliefs and human civilization. I use rational and scientific reasoning to argue that these objective moral laws exist regardless of whether or not concepts such as God or an eternal soul exist.
+In addition to my YouTube channel, I have also written a number of philosophical essays, such as the one in the following link:  
+[Objective Morality Based on Scientific and Rational Reasoning](objective-morality.md)
+
+In this essay, I argue that objective moral laws exist independently of human beliefs and human civilization, in the same way that objective physical laws, such as the law of gravity, exist independently of human beliefs and human civilization. I use rational and scientific reasoning to argue that these objective moral laws exist regardless of whether or not concepts such as God or an eternal soul exist.
 
 I was born in the Soviet Union in 1975, in Kiev. I moved to the United States when I was four years old and grew up in the Chicago area.
 
-I stopped eating meat in 1989 and I stopped eating eggs and dairy in 2000. Since 2000, I have been actively involved in vegan animal rights activism. I am a dedicated ethical vegan and I extend my ethical philosophy to all sentient beings, including insects. For example, I do not kill cockroaches or mosquitoes.
+I stopped eating meat in 1989 and I stopped eating eggs and dairy in 2000. Since 2000, I have been actively involved in vegan animal rights activism. I am a dedicated ethical vegan and I extend my ethical philosophy to all sentient beings, including insects. For example, I do not kill cockroaches or mosquitoes.  I have written a detailed "Animal Rights and Vegan Ethics" FAQ, available at the following link:  
+[Animal Rights and Vegan Ethics](veg1_faq_archive.md)
 
 I have lived in the Houston area since 2005.
 
