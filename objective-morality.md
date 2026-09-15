@@ -9,6 +9,13 @@
 
 ---
 
+- [Part 1 -- Introduction](#part-1----introduction)
+- [Part 2 -- Proving the Existence of an Objective Morality](#part-2----proving-the-existence-of-an-objective-morality)
+- [Part 3 -- Determining what the Objective Morality is](#part-3----determining-what-the-objective-morality-is)
+- [Part 4 -- Other Views](#part-4----other-views)
+
+---
+
 ## Part 1 -- Introduction
 
 My purpose in writing this is to argue for the existence of an objective morality based entirely on rational and scientific reasoning. By "objective morality" I do not simply mean that morality exists in the sense that various societies consider various actions to be immoral. What I mean is that certain actions are inherently right or wrong regardless of what any society thinks about them. In other words, I mean that there is an "objective morality" which exists independently of human beliefs and human civilization. There are many people who have the opinion that it is not possible to believe in such an objective morality without also believing in concepts such as God or an eternal soul. I believe that they are wrong. I will attempt to show that an objective morality exists and that this morality is the same regardless of which religion, if any, is correct.
@@ -400,7 +407,7 @@ But even if insects do turn out to be conscious, there are still characteristics
 This, however, is very different from saying that it is permissible to kill insects because there is a great quantity of insects suffering and dying in the world at every instant. This would not be a valid argument. The fact that there may be many humans suffering and dying in a war on another continent does not imply that it is OK for us to kill our neighbor. The fact that there is already much suffering and death in the world does not imply that it is OK for us to add to it.
 
 
-## Part Four -- Other Views
+## Part 4 -- Other Views
 
 I will now briefly discuss other views regarding morality. I will discuss views based on a belief in an all powerful God, views based on reincarnation, and atheistic views. I will not discuss whether any particular religion is correct or incorrect. In the introduction, I claimed that this "objective morality" is the same regardless of which religion is correct. As a result, I will point out how my views can be reconciled with certain religious beliefs. In the end, I will discuss if the moral beliefs of human civilization improve in the long run with the passage of time.
 
